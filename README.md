@@ -1,7 +1,5 @@
 # SideLoader.
 
-To deploy Ultroid to heroku.
+To deploy WaifuBot to heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fxditya%2FSideLoad)
-
-Main repository with all codes: [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/fnixdev/SideLoad)
