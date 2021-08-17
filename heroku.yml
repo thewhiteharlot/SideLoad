@@ -1,4 +1,3 @@
-// @fnixdev //
 build:
   docker:
     ultroid: Dockerfile
