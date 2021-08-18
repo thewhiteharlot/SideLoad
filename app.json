@@ -9,7 +9,7 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/fnixdev/WaifuBot/",
+    "repository": "https://github.com/fnixdev/KannaBot/",
     "website": "https://fnixdev.github.io",
     "success_url": "https://t.me/fnixdev",
     "stack": "container",
