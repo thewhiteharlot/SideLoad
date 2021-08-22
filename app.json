@@ -1,5 +1,5 @@
 {
-    "name": "KannaBot",
+    "name": "RokanBot",
     "description": "Pluggable telegram userbot, made in python using Telethon.",
     "logo": "https://telegra.ph/file/cd2bec1e72291813a88dd.jpg",
     "keywords": [
@@ -9,7 +9,7 @@
         "python",
         "ultroid"
     ],
-    "repository": "https://github.com/fnixdev/KannaBot/",
+    "repository": "https://github.com/thewhiteharlot/RokanBot2",
     "website": "https://fnixdev.github.io",
     "success_url": "https://t.me/fnixdev",
     "stack": "container",

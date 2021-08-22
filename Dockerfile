@@ -1,7 +1,7 @@
 # Ultroid - UserBot
 # Copyright (C) 2021 TeamUltroid
-# This file is a part of < https://github.com/fnixdev/KannaBot/ >
-# PLease read the GNU Affero General Public License in <https://github.com/fnixdev/KannaBot/blob/main/LICENSE/>.
+# This file is a part of < https://github.com/thewhiteharlot/RokanBot2 >
+# PLease read the GNU Affero General Public License in <https://github.com/thewhiteharlot/RokanBot2blob/main/LICENSE/>.
 
 FROM programmingerror/ultroid:b0.1
 
@@ -12,7 +12,7 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 # clone the repo and change workdir
 COPY . .
 RUN sh run.sh
-WORKDIR /root/KannaBot/
+WORKDIR /root/RokanBot/
 
 # install main requirements.
 RUN pip3 install --no-cache-dir -r requirements.txt
